@@ -6,7 +6,7 @@ called fileTypes.csv
 filetype and outputs it to the folder "filesToSort"
 
 
-#3 script.py goes through files to sort, and creates a new folder in "sortedFiles"
+#3 main.py goes through files to sort, and creates a new folder in "sortedFiles"
 per filetype, and moves each file accordingly to their respective folder.
 
 
