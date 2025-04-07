@@ -12,4 +12,7 @@ per filetype, and moves each file accordingly to their respective folder.
 
 
 # python3 generateFiles.py --value 100
-# python3 script.py
+# python3 script.py --delete
+
+# generates 100 files in a folder called filesToSort
+# after sorting them and adding them to a new folder, delete the files from the previous folder
